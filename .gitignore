@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+/vm/
+/vm.zip
+/submittion/
+/ML_Assignment_2_AIML_26Oct26.pdf
