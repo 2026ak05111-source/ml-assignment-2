@@ -1,6 +1,6 @@
 # Email Spam Classification
 
-Model training and evaluation are complete in BITS Virtual Lab. Streamlit Community Cloud deployment is pending.
+Model training and evaluation are complete in BITS Virtual Lab. The app is deployed on [Streamlit Community Cloud](https://ml-assignment-2-na6nicfr4m67anejvdayuu.streamlit.app/).
 
 ## a. Problem statement
 
